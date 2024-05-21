@@ -1,0 +1,3 @@
+mods.jei.JEI.addDescription(<liquid:hot_water>*1000, "Hot Spring Water can be pumped using a fluid pump only if it is above a naturally generated, non flowing, hot spring water block. Furthermore, only one fluid pump per chunk can pump out hot spring water.");
+mods.jei.JEI.addDescription(<immersiveintelligence:material:28>, "Natural Rubber is obtained through the use of a Coagulator. Check the Engineer's Manual for more information.");
+//mods.jei.JEI.addDescription(<tiagthings:steam_radiator>,"The Steam Radiator multiblock gives a raise in temperature of 21 degrees Celsius (69.8 degrees Fahrenheit) as long as is is offered steam.");

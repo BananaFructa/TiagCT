@@ -1,0 +1,36 @@
+recipes.addShaped(<tiagthings:sisal_woven_pirn>,[
+    [<tfcflorae:crop/product/sisal_string>,<tfcflorae:crop/product/sisal_string>,<tfcflorae:crop/product/sisal_string>],
+    [<tfcflorae:crop/product/sisal_string>,<att:pirn>,<tfcflorae:crop/product/sisal_string>],
+    [<tfcflorae:crop/product/sisal_string>,<tfcflorae:crop/product/sisal_string>,<tfcflorae:crop/product/sisal_string>]
+]);
+recipes.addShaped(<tiagthings:cotton_woven_pirn>,[
+    [<tfcflorae:crop/product/cotton_yarn>,<tfcflorae:crop/product/cotton_yarn>,<tfcflorae:crop/product/cotton_yarn>],
+    [<tfcflorae:crop/product/cotton_yarn>,<att:pirn>,<tfcflorae:crop/product/cotton_yarn>],
+    [<tfcflorae:crop/product/cotton_yarn>,<tfcflorae:crop/product/cotton_yarn>,<tfcflorae:crop/product/cotton_yarn>]
+]);
+recipes.addShaped(<tiagthings:linen_woven_pirn>,[
+    [<tfcflorae:crop/product/linen_string>,<tfcflorae:crop/product/linen_string>,<tfcflorae:crop/product/linen_string>],
+    [<tfcflorae:crop/product/linen_string>,<att:pirn>,<tfcflorae:crop/product/linen_string>],
+    [<tfcflorae:crop/product/linen_string>,<tfcflorae:crop/product/linen_string>,<tfcflorae:crop/product/linen_string>]
+]);
+recipes.addShaped(<tiagthings:hemp_woven_pirn>,[
+    [<tfcflorae:crop/product/hemp_string>,<tfcflorae:crop/product/hemp_string>,<tfcflorae:crop/product/hemp_string>],
+    [<tfcflorae:crop/product/hemp_string>,<att:pirn>,<tfcflorae:crop/product/hemp_string>],
+    [<tfcflorae:crop/product/hemp_string>,<tfcflorae:crop/product/hemp_string>,<tfcflorae:crop/product/hemp_string>]
+]);
+recipes.addShaped(<tiagthings:yucca_woven_pirn>,[
+    [<tfcflorae:crop/product/yucca_string>,<tfcflorae:crop/product/yucca_string>,<tfcflorae:crop/product/yucca_string>],
+    [<tfcflorae:crop/product/yucca_string>,<att:pirn>,<tfcflorae:crop/product/yucca_string>],
+    [<tfcflorae:crop/product/yucca_string>,<tfcflorae:crop/product/yucca_string>,<tfcflorae:crop/product/yucca_string>]
+]);
+recipes.addShaped(<tiagthings:pineapple_woven_pirn>,[
+    [<firmalife:pineapple_yarn>,<firmalife:pineapple_yarn>,<firmalife:pineapple_yarn>],
+    [<firmalife:pineapple_yarn>,<att:pirn>,<firmalife:pineapple_yarn>],
+    [<firmalife:pineapple_yarn>,<firmalife:pineapple_yarn>,<firmalife:pineapple_yarn>]
+]);
+recipes.remove(<att:fiber_winded_pirn>);
+recipes.addShaped(<att:fiber_winded_pirn>,[
+    [<tiagthings:jute_string>,<tiagthings:jute_string>,<tiagthings:jute_string>],
+    [<tiagthings:jute_string>,<att:pirn>,<tiagthings:jute_string>],
+    [<tiagthings:jute_string>,<tiagthings:jute_string>,<tiagthings:jute_string>]
+]);

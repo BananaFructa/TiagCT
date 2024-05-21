@@ -1,0 +1,1 @@
+mods.GalacticraftTweaker.modifySpaceStationRecipe(-27, <tiagthings:processing_module> * 64,<galacticraftcore:air_lock_frame> * 64, null, null, null); 
